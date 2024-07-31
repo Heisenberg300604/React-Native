@@ -1,0 +1,1 @@
+A repository where i have learned about react native and uploaded my mini and some major projects as a part of Learning on Github. Used CLI method and Expo method both to build production grade mobile apps

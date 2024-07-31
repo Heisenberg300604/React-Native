@@ -1,0 +1,11 @@
+How did I fixed the react native error....
+
+First of all in android folder in the gradle folder go in graddle-wrapper.properties
+then...
+set the distribution url to - distributionUrl=https\://services.gradle.org/distributions/gradle-8.5-all.zip
+
+that's it you are ready to go 
+now run the command npx react-native run-android
+
+
+For creating a new project - npx react-native init <name>
